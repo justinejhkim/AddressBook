@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="bookMark_menu_array">
+        <item>편집</item>
+        <item>즐겨찾기 삭제</item>
+        <item>전화걸기</item>
+        <item>문자보내기</item>
+    </string-array>
+</resources>
